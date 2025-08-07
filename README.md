@@ -6,6 +6,7 @@
 <link rel="stylesheet"href="style.css:>
 <script src="script.js"></script>
 </head>
+  
 <body>
 <h1>Welcome to my web page !<h1>
   
